@@ -1,0 +1,10 @@
+feh 
+rnnoise-cli 
+ani-cli
+burpsuite 
+snap
+yay
+krusader (file manager)
+grapejuice ;-;
+cli-visualizer
+pavucontrol
